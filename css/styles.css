@@ -82,7 +82,7 @@ color: grey;
  
 .accordion {
    
-   
+	background-color:#EAE0D5;
     border: none;
     text-align: left;
     outline: none;
@@ -95,8 +95,7 @@ color: grey;
 }
 
 .panel {
-   
-    max-height: 0;
+       max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
 }
