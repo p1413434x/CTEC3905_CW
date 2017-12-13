@@ -34,6 +34,8 @@ nav {
 	text-align: center;
 	padding: 1px;
 	font-size:12px;
+	float:left;
+	
 	
 }
 
@@ -87,7 +89,7 @@ color: grey;
 
 @media screen and (min-width: 500px) {
  /* override mobile styles for bigger screens */
-
+/*
 body{
 	margin:0;
 	padding:0;
@@ -185,4 +187,4 @@ a:hover{
 } 1em 1% ;
 }
 }
-
+*/
